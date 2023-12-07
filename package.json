@@ -1,0 +1,23 @@
+{
+  "name": "nightricing",
+  "displayName": "nightricing",
+  "description": "Dark VS Code theme",
+  "version": "0.0.1",
+  "publisher": "obsqrbtz",
+  "repository": "https://github.com/obsqrbtz/nightrice",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Night ricing",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Night ricing-color-theme.json"
+      }
+    ]
+  }
+}
